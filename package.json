@@ -1,0 +1,23 @@
+{
+  "name": "telerik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maribard/telerik.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maribard/telerik/issues"
+  },
+  "homepage": "https://github.com/maribard/telerik#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2"
+  },
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
